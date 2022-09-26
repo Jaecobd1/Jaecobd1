@@ -1,4 +1,5 @@
-Hello! My name is Jake Dobler
-I am interested in Javascript, HTML, CSS, React, Next js, Solidity, and Python
+Hi I'm Jake!
+
+I am a student studying application development through IUPUI online.
 
 I am currently looking for a job or internship as a junior Full Stack Developer.
