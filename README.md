@@ -1,5 +1,7 @@
 Hi I'm Jake!
 
-I am a student studying application development through IUPUI online.
+Certifications in Entrepreneurship & Multi-platform Application Development.
+
+Senior at IUPUI studying Informatics (Business)
 
 I am currently looking for a job or internship as a junior Full Stack Developer.
