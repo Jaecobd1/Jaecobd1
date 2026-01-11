@@ -8,8 +8,8 @@ I like bridging the gap between legacy systems and modern architectures, experim
 
 ## 💻 Tech Stack
 
-- **Languages:** C#, Go, PHP, SQL/PSQL, JavaScript/TypeScript, Java, HTML, CSS/SASS/SCSS.
-- **Frameworks & Tools:** Laravel, .NET Core, Kubernetes, Helm, Algo, Docker, React, Next.
+- **Languages:** C#, Go, PHP, SQL/PSQL, JavaScript/TypeScript, Java, HTML, CSS/SASS/SCSS, Python.
+- **Frameworks & Tools:** Laravel, .NET Core, Kubernetes, Helm, Algo, Docker, React, Next, Angular.
 - **Databases:** SQL Server, Postgres, SQLite (for small scale experiments)  
 - **DevOps & Cloud:** AWS, GitHub Actions, Algocd  
 
