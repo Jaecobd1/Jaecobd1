@@ -1,8 +1,17 @@
-Hi I'm Jake!
+# Hi, I'm Jake Dobler 👋
 
-I like to solve problems with creativity.
+I'm a software engineer and tech explorer who enjoys building scalable SaaS applications, homelab projects, and developer tools.  
 
-Recently I've enjoyed using React with Typescript, Tailwindcss, Go, and Docker.
+I like bridging the gap between legacy systems and modern architectures, experimenting with microservices and cloud-native setups.  
 
-check out my portfolio (It's a little outdated):
-[portfolio.dobler.studio](https://portfolio.dobler.studio)
+---
+
+## 💻 Tech Stack
+
+- **Languages:** C#, Go, PHP, SQL/PSQL, JavaScript/TypeScript, Java, HTML, CSS/SASS/SCSS.
+- **Frameworks & Tools:** Laravel, .NET Core, Kubernetes, Helm, Algo, Docker, React, Next.
+- **Databases:** SQL Server, Postgres, SQLite (for small scale experiments)  
+- **DevOps & Cloud:** AWS, GitHub Actions, Algocd  
+
+---
+
